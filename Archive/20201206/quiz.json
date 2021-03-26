@@ -1,0 +1,191 @@
+{
+    "quiz": [
+        {
+            "type": "intro",
+            "round": "Geography",
+            "fileName": "Geog intro.mp4",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "type": "question",
+            "round": "Geography",
+            "fileName": "Question",
+            "question": "Name the countries shown on the map",
+            "answer": ""
+        },
+        {
+            "type": "img",
+            "round": "Geography",
+            "fileName": "Geography1.png",
+            "question": "Name the countries shown on the map",
+            "answer": "1 Belarus\n2 Romania\n3 Switzerland\n4 Poland\n5 Denmark"
+        },
+        {
+            "type": "intro",
+            "round": "Movie",
+            "fileName": "Movie Intro.mp4",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "type": "question",
+            "round": "Movie",
+            "fileName": "Movie Question",
+            "question": "These three profile pictures are made up of five major actors and one Dave. Name the five actors.",
+            "answer": ""
+        },
+        {
+            "type": "img",
+            "round": "Movie",
+            "fileName": "Movie1.jpg",
+            "question": "",
+            "answer": "George Clooney & Robert Downey Jr."
+        },
+        {
+            "type": "img",
+            "round": "Movie",
+            "fileName": "Movie2.jpg",
+            "question": "",
+            "answer": "Will Smith & Jackie Chan"
+        },
+        {
+            "type": "img",
+            "round": "Movie",
+            "fileName": "Movie3.jpg",
+            "question": "",
+            "answer": "Chris Hemsworth & Dave"
+        },
+        {
+            "type": "intro",
+            "round": "Music",
+            "fileName": "Music Intro.mp4",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "type": "question",
+            "round": "Music",
+            "fileName": "Question",
+            "question": "Who sang the other half of these famous duets?",
+            "answer": ""
+        },
+        {
+            "type": "video",
+            "round": "Music",
+            "fileName": "Music1.mp4",
+            "question": "Who did Cher sing 'I Got you Babe' with?",
+            "answer": "Sunny"
+        },
+        {
+            "type": "video",
+            "round": "Music",
+            "fileName": "Music2.mp4",
+            "question": "Who did Kenny Rogers sing 'Islands in the Stream' with?",
+            "answer": "Dolly Parton"
+        },
+        {
+            "type": "video",
+            "round": "Music",
+            "fileName": "Music3.mp4",
+            "question": "Who did Elton John sing 'Don't go Breaking my Heart' with?",
+            "answer": "Kiki Dee"
+        },
+
+        {
+            "type": "video",
+            "round": "Music",
+            "fileName": "Music4.mp4",
+            "question": "Who did Alicia Keys sing 'Empire State of Mind' with?",
+            "answer": "Jay-Z"
+        },
+
+        {
+            "type": "video",
+            "round": "Music",
+            "fileName": "Music5.mp4",
+            "question": "Who did Frank Sinatra sing 'Somethin' Stupid' with?",
+            "answer": "Nancy Sinatra"
+        },
+        {
+            "type": "intro",
+            "round": "TV",
+            "fileName": "TV Intro.mp4",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "type": "question",
+            "round": "TV",
+            "fileName": "TV Question",
+            "question": "Which five of these ten films were turned in to TV Series?",
+            "answer": "Rush Hour\nHeathers\nClueless\nLethal Weapon\nLimitless"
+        },
+        {
+            "type": "img",
+            "round": "TV",
+            "fileName": "TV1.png",
+            "question": "Which five of these ten films were turned in to TV Series?",
+            "answer": "Rush Hour\nHeathers\nClueless\nLethal Weapon\nLimitless"
+        },
+        {
+            "type": "img",
+            "round": "TV",
+            "fileName": "TVAnswers.png",
+            "question": "Which five of these ten films were turned in to TV Series?",
+            "answer": "SRush Hour\nHeathers\nClueless\nLethal Weapon\nLimitless"
+        },
+        {
+            "type": "intro",
+            "round": "History",
+            "fileName": "History Intro.mp4",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "type": "question",
+            "round": "History",
+            "fileName": "History Question",
+            "question": "In what (modern) country was each of these battles fought?",
+            "answer": ""
+        },
+        {
+            "type": "img",
+            "round": "History",
+            "fileName": "History1.png",
+            "question": "Battle of Agincourt",
+            "answer": "France (1415)\n\nHenry V"
+        },
+
+        {
+            "type": "img",
+            "round": "History",
+            "fileName": "History2.png",
+            "question": "Battle of Balaklava",
+            "answer": "Ukraine (or Russia) (1854)\n\nCrimean War\nCharge of the Light Brigade"
+        },
+
+        {
+            "type": "img",
+            "round": "History",
+            "fileName": "History3.png",
+            "question": "Battle of Marathon",
+            "answer": "Greece (490BC)"
+        },
+
+        {
+            "type": "img",
+            "round": "History",
+            "fileName": "History4.png",
+            "question": "Battle of Waterloo",
+            "answer": "Belgium (1815)\n\nBritish & Prussian vs French"
+        },
+        {
+            "type": "img",
+            "round": "History",
+            "fileName": "History5.png",
+            "question": "Battle of Culloden",
+            "answer": "Scotland (1746)"
+        }
+    ]
+}
