@@ -1,0 +1,193 @@
+{
+    "quiz": [
+        {
+            "type": "intro",
+            "round": "Sport",
+            "fileName": "Sport intro.mp4",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "type": "question",
+            "round": "Sport",
+            "fileName": "Question",
+            "question": "What sport does each of these trophies belong to?",
+            "answer": ""
+        },
+        {
+            "type": "img",
+            "round": "Sport",
+            "fileName": "Sport1.jpg",
+            "question": "Stanley Cup",
+            "answer": "Ice Hockey"
+        },
+        {
+            "type": "img",
+            "round": "Sport",
+            "fileName": "Sport2.jpg",
+            "question": "Wimbledon Trophy",
+            "answer": "Tennis"
+        },
+        {
+            "type": "img",
+            "round": "Sport",
+            "fileName": "Sport3.jpg",
+            "question": "Commissioner's Trophy",
+            "answer": "Baseball"
+        },
+        {
+            "type": "img",
+            "round": "Sport",
+            "fileName": "Sport4.jpg",
+            "question": "The Ashes",
+            "answer": "Cricket"
+        },
+        {
+            "type": "img",
+            "round": "Sport",
+            "fileName": "Sport5.jpg",
+            "question": "Webb Ellis Cup",
+            "answer": "Rugby"
+        },
+        {
+            "type": "intro",
+            "round": "Book",
+            "fileName": "Books Intro.mp4",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "type": "question",
+            "round": "Book",
+            "fileName": "Book Question",
+            "question": "Each of these 2020 books is part of a series. Name the first book in the series.",
+            "answer": ""
+        },
+        {
+            "type": "img",
+            "round": "Book",
+            "fileName": "Book1.png",
+            "question": "Ready Player Two",
+            "answer": "Ready Player One"
+        },
+        {
+            "type": "img",
+            "round": "Book",
+            "fileName": "Book2.png",
+            "question": "Midnight Sun",
+            "answer": "Twilight"
+        },
+        {
+            "type": "img",
+            "round": "Book",
+            "fileName": "Book3.png",
+            "question": "The Ballad of Songbirds and Snakes",
+            "answer": "The Hunger Games"
+        },
+        {
+            "type": "img",
+            "round": "Book",
+            "fileName": "Book4.png",
+            "question": "Fire and Blood",
+            "answer": "A Game of Thrones"
+        },
+        {
+            "type": "img",
+            "round": "Book",
+            "fileName": "Book5.png",
+            "question": "Troubled Blood",
+            "answer": "The Cookoo's Calling"
+        },
+        {
+            "type": "intro",
+            "round": "Music",
+            "fileName": "Music Intro.mp4",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "type": "question",
+            "round": "Music",
+            "fileName": "Question",
+            "question": "Guess the song from the intro",
+            "answer": ""
+        },
+        {
+            "type": "video",
+            "round": "Music",
+            "fileName": "Music1.mp4",
+            "question": "",
+            "answer": "Rasputin - Boney M"
+        },
+        {
+            "type": "video",
+            "round": "Music",
+            "fileName": "Music2.mp4",
+            "question": "",
+            "answer": "Blue Monday - New Order"
+        },
+        {
+            "type": "video",
+            "round": "Music",
+            "fileName": "Music3.mp4",
+            "question": "",
+            "answer": "Anaconda - Nicki Minaj"
+        },
+        {
+            "type": "video",
+            "round": "Music",
+            "fileName": "Music4.mp4",
+            "question": "",
+            "answer": "Take Me Out - Franz Ferdinand"
+        },
+        {
+            "type": "video",
+            "round": "Music",
+            "fileName": "Music5.mp4",
+            "question": "",
+            "answer": "Free Fallin' - Tom Petty"
+        },
+        {
+            "type": "intro",
+            "round": "Movie",
+            "fileName": "Movie Intro.mp4",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "type": "img",
+            "round": "Movie",
+            "fileName": "Movie1.png",
+            "question": "Name five 'Carry On' Movies. If you name one someone else has named then neither team get a point for it",
+            "answer": ""
+        },
+        {
+            "type": "intro",
+            "round": "TV",
+            "fileName": "TV Intro.mp4",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "type": "question",
+            "round": "TV",
+            "fileName": "TV Question",
+            "question": "Watch the following clip from 'Malcolm in the Middle'",
+            "answer": ""
+        },
+        {
+            "type": "video",
+            "round": "TV",
+            "fileName": "TV1.mp4",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "type": "question",
+            "round": "TV",
+            "fileName": "TV Question",
+            "question": "Name the five chores Hal starts completing",
+            "answer": "Replacing Lightbulb\nFixing shelf\nOiling drawer\nBuying WD40\nFixing Car"
+        }
+    ]
+}
