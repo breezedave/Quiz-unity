@@ -1,0 +1,29 @@
+{
+    "players": [
+        {
+            "id": "Player1",
+            "name": "Gorja\n&\nJoe",
+            "img": "Gorja"
+        },
+        {
+            "id": "Player2",
+            "name": "Meg\n&\nBrad",
+            "img": "Meg"
+        },
+        {
+            "id": "Player3",
+            "name": "Anna",
+            "img": "Anna"
+        },
+        {
+            "id": "Player4",
+            "name": "Jen\n&\nTono",
+            "img": "Mum"
+        },
+        {
+            "id": "Player5",
+            "name": "Jo",
+            "img": "Jo"
+        }
+    ]
+}

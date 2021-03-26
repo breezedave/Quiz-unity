@@ -1,0 +1,19 @@
+{
+    "players": [
+        {
+            "id": "Player1",
+            "name": "Simon",
+            "img": "Bing"
+        },
+        {
+            "id": "Player2",
+            "name": "Fred",
+            "img": "Fred"
+        },
+        {
+            "id": "Player3",
+            "name": "Dave",
+            "img": "Sims"
+        }
+    ]
+}

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>5d85030fc7a0c8746b61a450bdd12362</guid>
+    <fileName>Assets/BaseMessaging.cs</fileName>
+    <timeStamp>2020-10-16T11:15:57.3170827+01:00</timeStamp>
+    <typeFullName>
+      <string>BaseMessaging</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>34d43ce174889ea4ca8b42aea15bcb3a</guid>
+    <fileName>Assets/CommunicationUtils.cs</fileName>
+    <timeStamp>2020-10-16T11:11:48.7175256+01:00</timeStamp>
+    <typeFullName>
+      <string>CommunicationUtils</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>33e4b6986752dd74aae9fc7e7e8c22b0</guid>
+    <fileName>Assets/InputHandler.cs</fileName>
+    <timeStamp>2020-10-19T16:49:49.556366+01:00</timeStamp>
+    <typeFullName>
+      <string>InputHandler</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>edaefff568dc5a544b81d1a5e9d09027</guid>
+    <fileName>Assets/LerpTest.cs</fileName>
+    <timeStamp>2020-10-16T18:33:32.9788148+01:00</timeStamp>
+    <typeFullName>
+      <string>LerpTest</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>da31787e749530d48add6cfef18ef714</guid>
+    <fileName>Assets/MessageModel.cs</fileName>
+    <timeStamp>2020-10-16T11:20:30.8029268+01:00</timeStamp>
+    <typeFullName>
+      <string>MessageModel</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>baa0c209ac82151468b09d29c61c6414</guid>
+    <fileName>Assets/Player.cs</fileName>
+    <timeStamp>2020-10-16T13:19:43.2362209+01:00</timeStamp>
+    <typeFullName>
+      <string>Player</string>
+      <string>Players</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>030dd4f1e29e77e40aedad1447f5e4dc</guid>
+    <fileName>Assets/Room.cs</fileName>
+    <timeStamp>2021-03-14T16:20:49.422956+00:00</timeStamp>
+    <typeFullName>
+      <string>Players</string>
+      <string>Room</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b273404afeaacaa4cb9fba5b38d25b56</guid>
+    <fileName>Assets/Scoreboard.cs</fileName>
+    <timeStamp>2020-10-14T23:48:06.1195565+01:00</timeStamp>
+    <typeFullName>
+      <string>Scoreboard</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>44c29ead2278a5c41943dc62e85f5324</guid>
+    <fileName>Assets/ServerCommunication.cs</fileName>
+    <timeStamp>2020-10-29T12:55:06.8875663+00:00</timeStamp>
+    <typeFullName>
+      <string>ServerCommunication</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2f2159c8e0a3ee84a9044acd8acd27d5</guid>
+    <fileName>Assets/SimpleJSON.cs</fileName>
+    <timeStamp>2020-10-17T20:13:26.8451174+01:00</timeStamp>
+    <typeFullName>
+      <string>SimpleJSON.JSONNodeType</string>
+      <string>SimpleJSON.JSONTextMode</string>
+      <string>SimpleJSON.JSONNode</string>
+      <string>SimpleJSON.JSONNode+Enumerator</string>
+      <string>SimpleJSON.JSONNode+ValueEnumerator</string>
+      <string>SimpleJSON.JSONNode+KeyEnumerator</string>
+      <string>SimpleJSON.JSONNode+LinqEnumerator</string>
+      <string>SimpleJSON.JSONArray</string>
+      <string>SimpleJSON.JSONObject</string>
+      <string>SimpleJSON.JSONString</string>
+      <string>SimpleJSON.JSONNumber</string>
+      <string>SimpleJSON.JSONBool</string>
+      <string>SimpleJSON.JSONNull</string>
+      <string>SimpleJSON.JSONLazyCreator</string>
+      <string>SimpleJSON.JSON</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>15121335fdaa6ac46a569b9fccd2382c</guid>
+    <fileName>Assets/UTFModel.cs</fileName>
+    <timeStamp>2020-10-17T19:46:37.0762407+01:00</timeStamp>
+    <typeFullName>
+      <string>UTFModel</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>da9734840a5f3a64392f29c62e4fcc4e</guid>
+    <fileName>Assets/VideoPlayerScript.cs</fileName>
+    <timeStamp>2020-10-24T17:06:22.4800984+01:00</timeStamp>
+    <typeFullName>
+      <string>VideoPlayerScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>985461601959bea498ec33cba53aa184</guid>
+    <fileName>Assets/Webcam.cs</fileName>
+    <timeStamp>2020-10-14T15:37:06.8656453+01:00</timeStamp>
+    <typeFullName>
+      <string>Webcam</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9f85ecffb1d8ecb49b6127b47bfcb171</guid>
+    <fileName>Assets/WSClient.cs</fileName>
+    <timeStamp>2020-10-16T11:10:46.3627099+01:00</timeStamp>
+    <typeFullName>
+      <string>WsClient</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>842f43ac94b4b4f72ac0898650ddcc44</guid>
+    <fileName>Assets/Cleaner/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2015-12-09T18:51:26+00:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.AssetCollector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>805140a4856714e288ea84985d3023df</guid>
+    <fileName>Assets/Cleaner/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T18:51:26+00:00</timeStamp>
+    <typeFullName>
+      <string>AssetReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>202c278a17939b24c8b79c0ee1f94d8f</guid>
+    <fileName>Assets/Cleaner/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T18:51:26+00:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ClassReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d05386265df34bac8d0b6df44aa494c</guid>
+    <fileName>Assets/Cleaner/Editor/CollectionData.cs</fileName>
+    <timeStamp>2015-12-09T18:51:26+00:00</timeStamp>
+    <typeFullName>
+      <string>CollectionData</string>
+      <string>TypeDate</string>
+      <string>IReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>74eec3bfba0594259ac2843353c082a3</guid>
+    <fileName>Assets/Cleaner/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2015-12-09T18:51:26+00:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f01a79a77a45a9a84004cc2b78098</guid>
+    <fileName>Assets/Cleaner/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T18:51:26+00:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+</ArrayOfTypeDate>

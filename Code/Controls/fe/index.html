@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+    <link rel="stylesheet" href="index.css" type="text/css"/>
+<body>
+    <div id="root">
+        <div class="tabs">
+            <button id="control">Control</button>
+            <button id="scores">Scores</button>
+            <button id="countdown">Countdown</button>
+        </div>
+        <div class="screens">
+            <div id="screen_control">
+                <button id="raise_screen">Raise Screen</button>
+                <button id="lower_screen">Lower Screen</button>
+                <button id="clear_screen">Clear Screen</button>
+                <button id="send_to_screen">Send to Screen</button>
+                <button id="raise_countdown">Raise Countdown</button>
+                <button id="lower_countdown">Lower Countdown</button>
+                <div id="option_list"></div>
+                <textarea id="current_question" disabled></textarea>
+            </div>
+
+            <div id="screen_scores" class="hidden">
+                <table>
+                    <thead>
+                        <th>Names</th>
+                        <th>Rnd1</th>
+                        <th>Rnd2</th>
+                        <th>Rnd3</th>
+                        <th>Rnd4</th>
+                        <th>Rnd5</th>
+                        <th>Rnd6</th>
+                        <th>Total</th>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+                <div>
+                    <button id="update_scores">Update Scores</button>
+                </div>
+            </div>
+
+            <div id ="screen_countdown" class="hidden">
+                <div id="letters">
+                    <div class="title">Letters / Conundrum Round</div>
+                    <div class="q">
+                        <div id="letter1"></div>
+                        <div id="letter2"></div>
+                        <div id="letter3"></div>
+                        <div id="letter4"></div>
+                        <div id="letter5"></div>
+                        <div id="letter6"></div>
+                        <div id="letter7"></div>
+                        <div id="letter8"></div>
+                        <div id="letter9"></div>
+                    </div>
+                    <div class="a">
+                        <div id="letterA1"></div>
+                        <div id="letterA2"></div>
+                        <div id="letterA3"></div>
+                        <div id="letterA4"></div>
+                        <div id="letterA5"></div>
+                        <div id="letterA6"></div>
+                        <div id="letterA7"></div>
+                        <div id="letterA8"></div>
+                        <div id="letterA9"></div>
+                    </div>
+                </div>
+                <div id="numbers">
+                    <div class="title">Numbers Round</div>
+                    <div class="q">
+                        <div id="number1"></div>
+                        <div id="number2"></div>
+                        <div id="number3"></div>
+                        <div id="number4"></div>
+                        <div id="number5"></div>
+                        <div id="number6"></div>
+                    </div>
+                    <div class="a">
+                        <div id="numberA"></div>
+                        <textarea id="solution"></textarea>
+                    </div>
+                </div>
+                <div id="countdown_controls">
+                    <button id="show_letters">Show Letters</button>
+                    <button id="show_numbers">Show Numbers</button>
+                    <button id="show_conundrum">Show Conundrum</button>
+                    <button id="start_stop_countdown">Start / Stop</button>
+                    <button id="add_consonant">Add Consonant</button>
+                    <button id="add_vowel">Add Vowel</button>
+                    <button id="add_big_num">Add Big Num</button>
+                    <button id="add_small_num">Add Small Num</button>
+                    <button id="show_answer">ShowAnswer</button>
+                    <button id="clear_board">Clear Board</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <script type="text/javascript" src="index.js"></script>
+    <script type="text/javascript" src="lettersFunc.js"></script>
+    <script type="text/javascript" src="numbersFunc.js"></script>
+    <script type="text/javascript" src="conundrumFunc.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/web-socket-js/1.0.0/web_socket.min.js"></script>
+</body>
+
+
+
+</html>
