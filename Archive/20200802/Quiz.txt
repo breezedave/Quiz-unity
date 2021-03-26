@@ -1,0 +1,47 @@
+History
+Which Period in History did each Monarch reign in?
+
+History1 - Charles II - Stuart
+History2 - George IV - Georgian
+History3 - Henry VIII - Tudor
+History4 - William IV - Georgian
+History5 - Edward VIII - Windsor
+
+
+Music
+Name the Artist from the Album Cover
+
+Music1 - Blondie - Parallel Lines
+Music2 - The Strokes - Is This It
+Music3 - Primal Scream - Screamadelica
+Music4 - Duran Duran - Rio
+Music5 - Beasite Boys - Licence to Ill
+
+
+Movie
+Name the Movie
+
+Movie1 - Interstellar
+Movie2 - Inception
+Movie3 - The Maltese Falcon
+Movie4 - The Wizard of Oz
+Movie5 - The Blair Witch Project
+
+
+Connectors
+
+Con1	play	back	bone
+Con2	after	life	like
+Con3	honey	moon	walk
+Con4	tooth	pick	up
+Con5	dish	water	shed
+
+
+Books
+Each of these quotes is from one of the 8 books shown. Name the book.
+
+Books1 - Harry Potter & the Prisoners of Azkaban
+Books2 - Alice in Wonderland
+Books3 - Catch 22
+Books4 - 1984
+Books5 - Lord of the Flies

@@ -1,0 +1,100 @@
+#root {
+    position: absolute;
+    width: 1600px;
+    height: 900px;
+    border: 2px solid #333;
+    border-radius: 10px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    font-family: arial;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 1px 1px;
+    grid-template-areas: "a b c d" "e f f h" "i j k l";
+}
+
+.hold {
+    margin: 20px;
+    background: #333;
+    border-radius: 10px;
+    position: relative;
+}
+
+.name {
+    width: 100%;
+    bottom: 10px;
+    left: 0;
+    position: absolute;
+    color: #eee;
+    text-align: center;
+    font-size: 24px;
+    flex-wrap: wrap;
+}
+
+.imgHold {
+    position: absolute;
+    width: 340px;
+    left: 10px;
+    top: 10px;
+    height: 180px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+img {
+    height: auto;
+    width: auto;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.pos0 {
+    grid-area: a;
+}
+
+.pos1 {
+    grid-area: b;
+}
+
+.pos2 {
+    grid-area: c;
+}
+
+.pos3 {
+    grid-area: d;
+}
+
+.pos4 {
+    grid-area: e;
+}
+
+.pos5 {
+    grid-area: h;
+}
+.pos6 {
+    grid-area: i;
+}
+.pos7 {
+    grid-area: j;
+}
+.pos8 {
+    grid-area: k;
+}
+.pos9 {
+    grid-area: l;
+}
+.pos10 {
+    grid-area: m;
+}
+.title {
+    grid-area: f;
+    font-size: 48px;
+    width: 100%;
+    text-align: center;
+}

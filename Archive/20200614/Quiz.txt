@@ -1,0 +1,87 @@
+Geography
+
+What country does this national dish belong to?
+
+Geog1 - Poutine
+Canada
+
+Geog2 - Moussaka
+Greece
+
+Geog3 - Bacon and Egg Pie
+New Zealand
+
+Geog4 - Chicken Tikka Masala
+UK
+
+Geog5 - Pho
+Vietnam
+
+
+Movie
+
+Name the film from the poster
+
+Movie1 - Back to the Future 2
+
+Movie2 - Hook
+
+Movie3 - Gremlins
+
+Movie4 - Black Swan
+
+Movie5 - The Exorcist
+
+
+Science
+
+Science1 - What animal has the latin name "Canis Lupus"
+Wolf
+
+Science2 - In the periodic table, what's the symbol for Potassium
+K
+
+Science3 - Where would I weigh the most, Earth, Venus, Saturn or Mars?
+Saturn
+
+Science4 - What was the name of the first cloned Sheep?
+Dolly
+
+Science5 - If you are Epidemiologist, what do you study?
+Disease
+
+
+
+
+Music
+
+Music1 - Guns 'n' Roses - Sweet Child O' Mine
+
+Music2 - The Rolling Stones - Paint It Black
+
+Music3 - Jerry Lee Lewis - Great Balls of Fire
+
+Music4 - Elvis Presley - Jailhouse Rock
+
+Music5 - Nirvana - Smells Like Teen Spirit
+
+
+
+TV
+
+What TV show did these Movie actors get their big start in?
+
+TV1 - Colin Farrell
+Ballykissangel
+
+TV2 - Joseph Gordon-Levitt
+3rd Rock from the son
+
+TV3 - Chris Hemsworth
+Home and Away
+
+TV4 - Olivia Wilde
+House
+
+TV5 - James McAvoy
+Shameless
