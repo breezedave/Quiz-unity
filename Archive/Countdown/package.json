@@ -1,0 +1,20 @@
+{
+  "name": "countdown",
+  "version": "1.0.0",
+  "description": "This is a simple countdown game I use for family quiz night",
+  "main": "conundrumAnim.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breezedave/countdown.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/breezedave/countdown/issues"
+  },
+  "homepage": "https://github.com/breezedave/countdown#readme"
+}

@@ -1,0 +1,70 @@
+<html>
+    <head>
+        <style type="text/css">
+            div {
+                display: block;
+                margin: 20px auto;
+                width: 80%;
+                position: relative;
+                z-index: 1;
+            }
+            canvas {
+                width: 100%;
+            }
+            button {
+                position: absolute;
+                z-index: 2;
+                min-width: 4%;
+                min-height: 7%;
+                padding: 0;
+                font-size: 0;
+                line-height: 0;
+            }
+            #start {
+                top: 5%;
+                left: 22%;
+            }
+            #pause {
+                top: 14%;
+                left: 22%;
+            }
+            #solve {
+                top: 23%;
+                left: 22%;
+            }
+            #checkAnswer {
+                top: 32%;
+                left: 19%;
+                width: 7%;
+                font-size: 1.3vw;
+                font-weight: 700;
+            }
+            #newGame {
+                top: 41%;
+                left: 22%;
+            }
+            #guess {
+                position: absolute;
+                top: 32%;
+                left: 1%;
+                width: 16%;
+                height: 7%;
+                min-height: 7%;
+                font-size: 1.7vw;
+            }
+        </style>
+    </head>
+    <body>
+        <div>
+            <canvas id="canvas" width=600 height=900></canvas>
+            <button id="start"></button>
+            <button id="pause"></button>
+            <button id="solve"></button>
+            <button id="newGame"></button>
+            <button id="checkAnswer">CHECK</button>
+            <input type="text" id="guess" />
+        </div>
+        <script type="text/javascript" src="conundrumFunc.js"></script>
+        <script type="text/javascript" src="conundrumAnim.js"></script>
+    </body>
+</html>

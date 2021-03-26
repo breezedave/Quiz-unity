@@ -1,0 +1,65 @@
+<html>
+    <head>
+        <style type="text/css">
+            @font-face {
+                font-family: 'digital-7_monomono';
+                src: url('digital-7_mono.woff2') format('woff2'),
+                     url('digital-7_mono.woff') format('woff');
+                font-weight: normal;
+                font-style: normal;
+
+            }
+            div {
+                display: block;
+                margin: 20px auto;
+                width: 80%;
+                position: relative;
+                z-index: 1;
+            }
+            canvas {
+                width: 100%;
+            }
+            button {
+                position: absolute;
+                z-index: 2;
+                min-width: 4%;
+                min-height: 7%;
+                padding: 0;
+                font-size: 0;
+                line-height: 0;
+            }
+            #big {
+                top: 5%;
+                left: 22%;
+            }
+            #small {
+                top: 14%;
+                left: 22%;
+            }
+            #start {
+                top: 23%;
+                left: 22%;
+            }
+            #solution {
+                top: 32%;
+                left: 22%;
+            }
+            #newGame {
+                top: 41%;
+                left: 22%;
+            }
+        </style>
+    </head>
+    <body>
+        <div>
+            <canvas id="canvas" width=600 height=900></canvas>
+            <button id="big"></button>
+            <button id="small"></button>
+            <button id="start"></button>
+            <button id="solution"></button>
+            <button id="newGame"></button>
+        </div>
+        <script type="text/javascript" src="numbersFunc.js"></script>
+        <script type="text/javascript" src="numbersAnim.js"></script>
+    </body>
+</html>

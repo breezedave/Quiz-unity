@@ -1,0 +1,57 @@
+<html>
+    <head>
+        <style type="text/css">
+            div {
+                display: block;
+                margin: 20px auto;
+                width: 80%;
+                position: relative;
+                z-index: 1;
+            }
+            canvas {
+                width: 100%;
+            }
+            button {
+                position: absolute;
+                z-index: 2;
+                min-width: 4%;
+                min-height: 7%;
+                padding: 0;
+                font-size: 0;
+                line-height: 0;
+            }
+            #vowel {
+                top: 5%;
+                left: 22%;
+            }
+            #consonant {
+                top: 14%;
+                left: 22%;
+            }
+            #start {
+                top: 23%;
+                left: 22%;
+            }
+            #solve {
+                top: 32%;
+                left: 22%;
+            }
+            #newGame {
+                top: 41%;
+                left: 22%;
+            }
+        </style>
+    </head>
+    <body>
+        <div>
+            <canvas id="canvas" width=600 height=900></canvas>
+            <button id="vowel"></button>
+            <button id="consonant"></button>
+            <button id="start"></button>
+            <button id="solve"></button>
+            <button id="newGame"></button>
+        </div>
+        <script type="text/javascript" src="lettersFunc.js"></script>
+        <script type="text/javascript" src="lettersAnim.js"></script>
+    </body>
+</html>
