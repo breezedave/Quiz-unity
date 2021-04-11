@@ -32,10 +32,7 @@ class Server {
     handleSockets = () => {
         this.io = require("socket.io")(this.server);
 
-        const Sockets = require("./sockets");
-        const sockets = new Sockets(this.io);
-
-        sockets.registerUser();
+        
     }
 
     registerServer = () => {

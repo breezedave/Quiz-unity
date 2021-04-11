@@ -6,8 +6,6 @@ using UnityEngine.UI;
 
 public class Webcam : MonoBehaviour
 {
-    public string webcamName = "BisonCam,NB Pro";
-
     void Start()
     {
         Renderer rend = this.GetComponentInChildren<Renderer>();
@@ -33,8 +31,8 @@ public class Webcam : MonoBehaviour
     {
         foreach (var device in WebCamTexture.devices)
         {
-           
-           if(device.name == webcamName) return device;
+            System.Console.WriteLine(device.name);
+            if(device.name == "USB Video Device") return device;
         }
 
         return WebCamTexture.devices[0];

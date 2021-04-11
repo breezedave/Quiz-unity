@@ -2,52 +2,101 @@
     "quiz": [
         {
             "type": "intro",
-            "round": "Music",
-            "fileName": "Music Intro.mp4",
+            "round": "Geography",
+            "fileName": "Geog Intro.mp4",
             "question": "",
             "answer": ""
         },
         {
             "type": "question",
-            "round": "Music",
-            "fileName": "Music",
-            "question": "Each of these songs was UK number one on the 21st March of it's year. Name the artist for each song.",
+            "round": "Geography",
+            "fileName": "Geography",
+            "question": "In which country will you find each of these tourist attractions?",
             "answer": ""
         },
         {
-            "type": "video",
-            "round": "Music",
-            "fileName": "Music1.mp4",
-            "question": "",
-            "answer": "1972 - (Harry) Nilsson - Without You"
+            "type": "img",
+            "round": "Geography",
+            "fileName": "Geog1.png",
+            "question": "'Come At Me Bro' Jesus - (Christ the Redeemer)",
+            "answer": "Brazil"
         },
         {
-            "type": "video",
-            "round": "Music",
-            "fileName": "Music2.mp4",
-            "question": "",
-            "answer": "1975 - Bay City Rollers - Bye Bye Baby"
+            "type": "img",
+            "round": "Geography",
+            "fileName": "Geog2.png",
+            "question": "Lego Castle - (Neuschwanstein Castle)",
+            "answer": "Germany"
         },
         {
-            "type": "video",
-            "round": "Music",
-            "fileName": "Music3.mp4",
-            "question": "",
-            "answer": "1983 - Duran Duran - Is There Something I Should Know"
+            "type": "img",
+            "round": "Geography",
+            "fileName": "Geog3.png",
+            "question": "Rising Damp Castle - (Mont Saint-Michel)",
+            "answer": "France"
         },
         {
-            "type": "video",
-            "round": "Music",
-            "fileName": "Music4.mp4",
-            "question": "",
-            "answer": "1993 - Shaggy - Oh Carolina"
+            "type": "img",
+            "round": "Geography",
+            "fileName": "Geog4.png",
+            "question": "Dum Dum Give Me Gum Gum - (Easter Island Statue)",
+            "answer": "Easter Island (Chile)"
         },
         {
-            "type": "video",
-            "round": "Music",
-            "fileName": "Music5.mp4",
+            "type": "img",
+            "round": "Geography",
+            "fileName": "Geog5.png",
+            "question": "Just The Tip - (Washington Monument)",
+            "answer": "USA"
+        },
+        {
+            "type": "intro",
+            "round": "TV",
+            "fileName": "TV Intro.mp4",
             "question": "",
-            "answer": "1998 - Run DMC vs Jason Nevins - It's Like That"
+            "answer": ""
+        },
+        {
+            "type": "question",
+            "round": "TV",
+            "fileName": "TV",
+            "question": "Which TV Chef wrote each of these cookery books?",
+            "answer": ""
+        },
+        {
+            "type": "img",
+            "round": "TV",
+            "fileName": "TV1.png",
+            "question": "Mary Berry",
+            "answer": ""
+        },
+        {
+            "type": "img",
+            "round": "TV",
+            "fileName": "TV2.png",
+            "question": "Jamie Oliver",
+            "answer": ""
+        },
+        {
+            "type": "img",
+            "round": "TV",
+            "fileName": "TV3.png",
+            "question": "Hugh Fearnley-Whittingstall",
+            "answer": ""
+        },
+        {
+            "type": "img",
+            "round": "TV",
+            "fileName": "TV4.png",
+            "question": "James Martin",
+            "answer": ""
+        },
+        {
+            "type": "img",
+            "round": "TV",
+            "fileName": "TV5.png",
+            "question": "Nigella Lawson",
+            "answer": ""
         },
         {
             "type": "intro",
@@ -60,169 +109,113 @@
             "type": "question",
             "round": "History",
             "fileName": "History",
-            "question": "In which country was each of these historical figures born?",
+            "question": "Match the Greek God / Goddess to their description",
             "answer": ""
         },
         {
             "type": "img",
             "round": "History",
-            "fileName": "History1.jpg",
-            "question": "Grigori Rasputin",
-            "answer": "Russia"
-        },
-        {
-            "type": "img",
-            "round": "History",
-            "fileName": "History2.jpg",
-            "question": "Vlad the Imapla",
-            "answer": "Romania"
-        },
-        {
-            "type": "img",
-            "round": "History",
-            "fileName": "History3.jpg",
-            "question": "Charlemagne",
-            "answer": "France (Frankish Kingdom)"
-        },
-        {
-            "type": "img",
-            "round": "History",
-            "fileName": "History4.jpg",
-            "question": "Archduke Franz Ferdinand",
-            "answer": "Austria"
-        },
-        {
-            "type": "img",
-            "round": "History",
-            "fileName": "History5.jpg",
-            "question": "Boris Johnson",
-            "answer": "USA"
+            "fileName": "History1.png",
+            "question": "",
+            "answer": "Hera - Goddess of Marriage\nDemeter - Goddess of Agriculture\nAthena - Goddess of Wisdom\nApollo - God of Archery\nArtemis - Goddess of the Hunt"
         },
         {
             "type": "intro",
-            "round": "Sport",
-            "fileName": "Sport Intro.mp4",
+            "round": "Music",
+            "fileName": "Music Intro.mp4",
             "question": "",
             "answer": ""
         },
         {
             "type": "question",
-            "round": "Sport",
-            "fileName": "Sport1",
-            "question": "What's the maximum score in 10-pin bowling?",
-            "answer": "300"
+            "round": "Music",
+            "fileName": "Music",
+            "question": "Each of these songs was UK number one on the 4th April of it's year. Name the artist for each song.",
+            "answer": ""
         },
         {
-            "type": "question",
-            "round": "Sport",
-            "fileName": "Sport2",
-            "question": "What colours are the five Olympic rings?",
-            "answer": "Blue, Yellow, Black, Green & Red"
+            "type": "video",
+            "round": "Music",
+            "fileName": "Music1.mp4",
+            "question": "",
+            "answer": "1980 - The Jam - Going Underground"
         },
         {
-            "type": "question",
-            "round": "Sport",
-            "fileName": "Sport3",
-            "question": "The Pittsburgh Penguins play what sport?",
-            "answer": "Ice Hockey"
+            "type": "video",
+            "round": "Music",
+            "fileName": "Music2.mp4",
+            "question": "",
+            "answer": "1988 - Pet Shop Boys - Heart"
         },
         {
-            "type": "question",
-            "round": "Sport",
-            "fileName": "Sport4",
-            "question": "Where will the 2024 Olympics be held?",
-            "answer": "Paris"
+            "type": "video",
+            "round": "Music",
+            "fileName": "Music3.mp4",
+            "question": "",
+            "answer": "1997 - The Chemical Brothers - Block Rockin' Beats"
         },
         {
-            "type": "question",
-            "round": "Sport",
-            "fileName": "Sport5",
-            "question": "The Toronto Raptors play what sport?",
-            "answer": "Basketball"
+            "type": "video",
+            "round": "Music",
+            "fileName": "Music4.mp4",
+            "question": "",
+            "answer": "1999 - Mr Oizo - Flat Beat"
+        },
+        {
+            "type": "video",
+            "round": "Music",
+            "fileName": "Music5.mp4",
+            "question": "",
+            "answer": "2006 - Gnarls Barkley - Crazy"
         },
         {
             "type": "intro",
-            "round": "TV",
-            "fileName": "TV Intro.mp4",
+            "round": "Movie",
+            "fileName": "Movie Intro.mp4",
             "question": "",
             "answer": ""
         },
         {
-            "type": "video",
-            "round": "TV",
-            "fileName": "TV1.mp4",
-            "question": "Allo Allo",
+            "type": "question",
+            "round": "Movie",
+            "fileName": "Movie",
+            "question": "Who is the subject of each of these Biopics?",
             "answer": ""
         },
         {
-            "type": "video",
-            "round": "TV",
-            "fileName": "TV2.mp4",
-            "question": "Big Brother",
-            "answer": ""
-        },
-        {
-            "type": "video",
-            "round": "TV",
-            "fileName": "TV3.mp4",
-            "question": "Blue Peter",
-            "answer": ""
-        },
-        {
-            "type": "video",
-            "round": "TV",
-            "fileName": "TV4.mp4",
-            "question": "Grand Designs",
-            "answer": ""
-        },
-        {
-            "type": "video",
-            "round": "TV",
-            "fileName": "TV5.mp4",
-            "question": "Bewitched",
-            "answer": ""
-        },
-        {
-            "type": "intro",
-            "round": "Challenge",
-            "fileName": "Challenge intro.mp4",
+            "type": "img",
+            "round": "Movie",
+            "fileName": "Movie1.png",
             "question": "",
-            "answer": ""
+            "answer": "Braveheart - William Wallace"
         },
         {
             "type": "img",
-            "round": "Challenge",
-            "fileName": "JenAndTono.jpg",
-            "question": "Wales",
-            "answer": ""
-        },
-        {
-            "type": "img",
-            "round": "Challenge",
-            "fileName": "Anna.jpg",
-            "question": "Ireland",
-            "answer": ""
-        },
-        {
-            "type": "img",
-            "round": "Challenge",
-            "fileName": "Jo.jpg",
+            "round": "Movie",
+            "fileName": "Movie2.png",
             "question": "",
-            "answer": ""
+            "answer": "Man on the Moon - Andy Kaufman"
         },
         {
             "type": "img",
-            "round": "Challenge",
-            "fileName": "Gorja.jpg",
-            "question": "Japan",
-            "answer": ""
+            "round": "Movie",
+            "fileName": "Movie3.png",
+            "question": "",
+            "answer": "Walk the Line - Johnny Cash"
         },
         {
             "type": "img",
-            "round": "Challenge",
-            "fileName": "MegAndBrad.jpg",
-            "question": "Ireland",
-            "answer": ""
+            "round": "Movie",
+            "fileName": "Movie4.png",
+            "question": "",
+            "answer": "The Damned United - Brian Clough"
+        },
+        {
+            "type": "img",
+            "round": "Movie",
+            "fileName": "Movie5.png",
+            "question": "",
+            "answer": "The Elephant Man - John Merrick"
         }
     ]
 }
