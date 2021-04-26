@@ -1,6 +1,13 @@
 {
     "quiz": [
         {
+            "type": "img",
+            "round": "",
+            "fileName": "Quiziversary.png",
+            "question": "",
+            "answer": ""
+        }, 
+        {
             "type": "intro",
             "round": "Geography",
             "fileName": "Geog Intro.mp4",
@@ -11,113 +18,71 @@
             "type": "question",
             "round": "Geography",
             "fileName": "Geography",
-            "question": "In which country will you find each of these tourist attractions?",
+            "question": "Place each of these \ncities on the map\n\nBirmingham\nBoston\nLondon\nManchester\nSurrey",
             "answer": ""
         },
         {
             "type": "img",
             "round": "Geography",
-            "fileName": "Geog1.png",
-            "question": "'Come At Me Bro' Jesus - (Christ the Redeemer)",
-            "answer": "Brazil"
+            "fileName": "GeogQs.png",
+            "question": "",
+            "answer": ""
         },
         {
             "type": "img",
             "round": "Geography",
-            "fileName": "Geog2.png",
-            "question": "Lego Castle - (Neuschwanstein Castle)",
-            "answer": "Germany"
-        },
-        {
-            "type": "img",
-            "round": "Geography",
-            "fileName": "Geog3.png",
-            "question": "Rising Damp Castle - (Mont Saint-Michel)",
-            "answer": "France"
-        },
-        {
-            "type": "img",
-            "round": "Geography",
-            "fileName": "Geog4.png",
-            "question": "Dum Dum Give Me Gum Gum - (Easter Island Statue)",
-            "answer": "Easter Island (Chile)"
-        },
-        {
-            "type": "img",
-            "round": "Geography",
-            "fileName": "Geog5.png",
-            "question": "Just The Tip - (Washington Monument)",
-            "answer": "USA"
+            "fileName": "GeogAs.png",
+            "question": "",
+            "answer": ""
         },
         {
             "type": "intro",
-            "round": "TV",
-            "fileName": "TV Intro.mp4",
+            "round": "Science",
+            "fileName": "Science Intro.mp4",
             "question": "",
             "answer": ""
         },
         {
             "type": "question",
-            "round": "TV",
-            "fileName": "TV",
-            "question": "Which TV Chef wrote each of these cookery books?",
-            "answer": ""
-        },
-        {
-            "type": "img",
-            "round": "TV",
-            "fileName": "TV1.png",
-            "question": "Mary Berry",
-            "answer": ""
-        },
-        {
-            "type": "img",
-            "round": "TV",
-            "fileName": "TV2.png",
-            "question": "Jamie Oliver",
-            "answer": ""
-        },
-        {
-            "type": "img",
-            "round": "TV",
-            "fileName": "TV3.png",
-            "question": "Hugh Fearnley-Whittingstall",
-            "answer": ""
-        },
-        {
-            "type": "img",
-            "round": "TV",
-            "fileName": "TV4.png",
-            "question": "James Martin",
-            "answer": ""
-        },
-        {
-            "type": "img",
-            "round": "TV",
-            "fileName": "TV5.png",
-            "question": "Nigella Lawson",
-            "answer": ""
-        },
-        {
-            "type": "intro",
-            "round": "History",
-            "fileName": "History Intro.mp4",
-            "question": "",
+            "round": "Science",
+            "fileName": "Science",
+            "question": "Name the Scientist linked to each of these discoveries / inventions",
             "answer": ""
         },
         {
             "type": "question",
-            "round": "History",
-            "fileName": "History",
-            "question": "Match the Greek God / Goddess to their description",
-            "answer": ""
+            "round": "Science",
+            "fileName": "Science1",
+            "question": "Gravity",
+            "answer": "Isaac Newton"
         },
         {
-            "type": "img",
-            "round": "History",
-            "fileName": "History1.png",
-            "question": "",
-            "answer": "Hera - Goddess of Marriage\nDemeter - Goddess of Agriculture\nAthena - Goddess of Wisdom\nApollo - God of Archery\nArtemis - Goddess of the Hunt"
+            "type": "question",
+            "round": "Science",
+            "fileName": "Science2",
+            "question": "Lightning Rods",
+            "answer": "Benjamin Franklin"
+        },
+        {
+            "type": "question",
+            "round": "Science",
+            "fileName": "Science3",
+            "question": "General Relativity",
+            "answer": "Albert Einstein"
+        },
+        {
+            "type": "question",
+            "round": "Science",
+            "fileName": "Science4",
+            "question": "The Telephone",
+            "answer": "Alexander Graham Bell"
+        },
+        {
+            "type": "question",
+            "round": "Science",
+            "fileName": "Science5",
+            "question": "Radioactivity",
+            "answer": "Marie Curie"
         },
         {
             "type": "intro",
@@ -130,7 +95,7 @@
             "type": "question",
             "round": "Music",
             "fileName": "Music",
-            "question": "Each of these songs was UK number one on the 4th April of it's year. Name the artist for each song.",
+            "question": "Each song was number one this day on the year it was released. Name the artist",
             "answer": ""
         },
         {
@@ -138,35 +103,35 @@
             "round": "Music",
             "fileName": "Music1.mp4",
             "question": "",
-            "answer": "1980 - The Jam - Going Underground"
+            "answer": "1979 - Art Garfunkel - Bright Eyes"
         },
         {
             "type": "video",
             "round": "Music",
             "fileName": "Music2.mp4",
             "question": "",
-            "answer": "1988 - Pet Shop Boys - Heart"
+            "answer": "1980 - Blondie - Call Me"
         },
         {
             "type": "video",
             "round": "Music",
             "fileName": "Music3.mp4",
             "question": "",
-            "answer": "1997 - The Chemical Brothers - Block Rockin' Beats"
+            "answer": "1999 - Martine McCutcheon - Perfect Moment"
         },
         {
             "type": "video",
             "round": "Music",
             "fileName": "Music4.mp4",
             "question": "",
-            "answer": "1999 - Mr Oizo - Flat Beat"
+            "answer": "2001 - Destiny's Child - Survivor"
         },
         {
             "type": "video",
             "round": "Music",
             "fileName": "Music5.mp4",
             "question": "",
-            "answer": "2006 - Gnarls Barkley - Crazy"
+            "answer": "2012 - Carly Rae Jepsen - Call Me Maybe"
         },
         {
             "type": "intro",
@@ -179,43 +144,78 @@
             "type": "question",
             "round": "Movie",
             "fileName": "Movie",
-            "question": "Who is the subject of each of these Biopics?",
+            "question": "With the ceremony later tonight, this week's movie round is about the Oscars",
+            "answer": ""
+        },
+        {
+            "type": "question",
+            "round": "Movie",
+            "fileName": "Movie1",
+            "question": "Which three films are tied for most oscar wins\n(1 point per film)",
+            "answer": "Ben-Hur (nominated for 12)\nTitanic (nominated for 14)\nThe Lord of the Rings: The Return of the King (nomiated for 11)"
+        },
+        {
+            "type": "question",
+            "round": "Movie",
+            "fileName": "Movie2",
+            "question": "Which Actress has won the most awards (all for Best Actress)",
+            "answer": "Katharine Hepburn (4)"
+        },
+        {
+            "type": "question",
+            "round": "Movie",
+            "fileName": "Movie3",
+            "question": "Most awards won by a single person",
+            "answer": "Walt Disney (22)"
+        },
+        {
+            "type": "intro",
+            "round": "TV",
+            "fileName": "TV Intro.mp4",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "type": "question",
+            "round": "TV",
+            "fileName": "TV",
+            "question": "What is the name of each of these characters played by David Jason",
             "answer": ""
         },
         {
             "type": "img",
-            "round": "Movie",
-            "fileName": "Movie1.png",
+            "round": "TV",
+            "fileName": "TV1.png",
             "question": "",
-            "answer": "Braveheart - William Wallace"
+            "answer": "Granville - Open All Hours"
         },
         {
             "type": "img",
-            "round": "Movie",
-            "fileName": "Movie2.png",
+            "round": "TV",
+            "fileName": "TV2.png",
             "question": "",
-            "answer": "Man on the Moon - Andy Kaufman"
+            "answer": "DI Jack Frost - A Touch of Frost"
         },
         {
             "type": "img",
-            "round": "Movie",
-            "fileName": "Movie3.png",
+            "round": "TV",
+            "fileName": "TV3.png",
             "question": "",
-            "answer": "Walk the Line - Johnny Cash"
+            "answer": "Derek 'Del Boy' Trotter - Only Fools and Horses"
         },
         {
             "type": "img",
-            "round": "Movie",
-            "fileName": "Movie4.png",
+            "round": "TV",
+            "fileName": "TV4.png",
             "question": "",
-            "answer": "The Damned United - Brian Clough"
+            "answer": "Pop Larkin - The Darling Buds of May"
         },
         {
             "type": "img",
-            "round": "Movie",
-            "fileName": "Movie5.png",
+            "round": "TV",
+            "fileName": "TV5.png",
             "question": "",
-            "answer": "The Elephant Man - John Merrick"
+            "answer": "Count Duckula - Count Duckula"
         }
     ]
 }

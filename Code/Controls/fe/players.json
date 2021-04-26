@@ -2,28 +2,28 @@
     "players": [
         {
             "id": "Player1",
-            "name": "Gorja\n&\nJoe",
-            "img": "Gorja"
+            "name": "Meg",
+            "img": "Meg"
         },
         {
             "id": "Player2",
-            "name": "Meg\n&\nBrad",
+            "name": "Brad",
             "img": "Meg"
         },
         {
             "id": "Player3",
-            "name": "Anna\n&\nDarron",
-            "img": "Anna"
+            "name": "Jo",
+            "img": "Jo"
         },
         {
             "id": "Player4",
-            "name": "Jen\n&\nTono",
+            "name": "Jenny",
             "img": "Mum"
         },
         {
             "id": "Player5",
-            "name": "Jo",
-            "img": "Jo"
+            "name": "Tono",
+            "img": "Mum"
         }
     ]
 }

@@ -1,0 +1,228 @@
+{
+    "quiz": [
+        {
+            "type": "intro",
+            "round": "Geography",
+            "fileName": "Geog Intro.mp4",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "type": "question",
+            "round": "Geography",
+            "fileName": "Geography",
+            "question": "Which country does each national anthem belong to?",
+            "answer": ""
+        },
+        {
+            "type": "video",
+            "round": "Geography",
+            "fileName": "Geog1.mp4",
+            "question": "Russia",
+            "answer": ""
+        },
+        {
+            "type": "video",
+            "round": "Geography",
+            "fileName": "Geog2.mp4",
+            "question": "Canada",
+            "answer": ""
+        },
+        {
+            "type": "video",
+            "round": "Geography",
+            "fileName": "Geog3.mp4",
+            "question": "Australia",
+            "answer": ""
+        },
+        {
+            "type": "video",
+            "round": "Geography",
+            "fileName": "Geog4.mp4",
+            "question": "Germany",
+            "answer": ""
+        },
+        {
+            "type": "video",
+            "round": "Geography",
+            "fileName": "Geog5.mp4",
+            "question": "France",
+            "answer": ""
+        },
+        {
+            "type": "intro",
+            "round": "TV",
+            "fileName": "TV Intro.mp4",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "type": "question",
+            "round": "TV",
+            "fileName": "TV",
+            "question": "Name each of these hosts of 'Live at the Apollo'",
+            "answer": ""
+        },
+        {
+            "type": "img",
+            "round": "TV",
+            "fileName": "TV1.png",
+            "question": "Sara Pascoe",
+            "answer": ""
+        },
+        {
+            "type": "img",
+            "round": "TV",
+            "fileName": "TV2.png",
+            "question": "Phil Wang",
+            "answer": ""
+        },
+        {
+            "type": "img",
+            "round": "TV",
+            "fileName": "TV3.png",
+            "question": "Henning Wehn",
+            "answer": ""
+        },
+        {
+            "type": "img",
+            "round": "TV",
+            "fileName": "TV4.png",
+            "question": "Joe Lycett",
+            "answer": ""
+        },
+        {
+            "type": "img",
+            "round": "TV",
+            "fileName": "TV5.png",
+            "question": "Adam Hills",
+            "answer": ""
+        },
+        {
+            "type": "intro",
+            "round": "Music",
+            "fileName": "Music Intro.mp4",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "type": "question",
+            "round": "Music",
+            "fileName": "Music",
+            "question": "Name the two singers in each of these duets\n(Half point per artist)",
+            "answer": ""
+        },
+        {
+            "type": "video",
+            "round": "Music",
+            "fileName": "Music1.mp4",
+            "question": "Endless Love",
+            "answer": "Diana Ross & Lionel Richie"
+        },
+        {
+            "type": "video",
+            "round": "Music",
+            "fileName": "Music2.mp4",
+            "question": "Islands in the Stream",
+            "answer": "Kenny Rogers & Dolly Parton"
+        },
+        {
+            "type": "video",
+            "round": "Music",
+            "fileName": "Music3.mp4",
+            "question": "Dancing in the Street",
+            "answer": "David Bowie & Mick Jagger"
+        },
+        {
+            "type": "video",
+            "round": "Music",
+            "fileName": "Music4.mp4",
+            "question": "Girl from the North Country",
+            "answer": "Bob Dylan & Johnny Cash"
+        },
+        {
+            "type": "video",
+            "round": "Music",
+            "fileName": "Music5.mp4",
+            "question": "Anything Goes",
+            "answer": "Tony Bennett & Lady Gaga"
+        },
+        {
+            "type": "intro",
+            "round": "Movie",
+            "fileName": "Movie Intro.mp4",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "type": "question",
+            "round": "Movie",
+            "fileName": "Movie",
+            "question": "Name the actor / actress that wrote each of these autobiographies.",
+            "answer": ""
+        },
+        {
+            "type": "question",
+            "round": "Movie",
+            "fileName": "Movie1",
+            "question": "My Word is my Bond (A Memoir)",
+            "answer": "Roger Moore"
+        },
+        {
+            "type": "question",
+            "round": "Movie",
+            "fileName": "Movie2",
+            "question": "Blowing the Bloody Doors Off",
+            "answer": "Michael Caine"
+        },
+        {
+            "type": "question",
+            "round": "Movie",
+            "fileName": "Movie3",
+            "question": "Total Recall",
+            "answer": "Arnold Schwarzeneggar"
+        },
+        {
+            "type": "question",
+            "round": "Movie",
+            "fileName": "Movie4",
+            "question": "The Princess Diarist",
+            "answer": "Carrie Fisher"
+        },
+        {
+            "type": "question",
+            "round": "Movie",
+            "fileName": "Movie5",
+            "question": "Always Look On the Bright Side Of Life",
+            "answer": "Eric Idle"
+        },
+        {
+            "type": "intro",
+            "round": "Drinks",
+            "fileName": "Drinks Intro.mp4",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "type": "question",
+            "round": "Drinks",
+            "fileName": "Drinks",
+            "question": "Match the Quote about drinking to the person who said it",
+            "answer": ""
+        },
+        {
+            "type": "img",
+            "round": "Drinks",
+            "fileName": "Drinks1.png",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "type": "img",
+            "round": "Drinks",
+            "fileName": "Drinks1Answers.png",
+            "question": "",
+            "answer": ""
+        }
+    ]
+}
