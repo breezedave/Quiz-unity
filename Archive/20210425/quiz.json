@@ -1,0 +1,221 @@
+{
+    "quiz": [
+        {
+            "type": "img",
+            "round": "",
+            "fileName": "Quiziversary.png",
+            "question": "",
+            "answer": ""
+        }, 
+        {
+            "type": "intro",
+            "round": "Geography",
+            "fileName": "Geog Intro.mp4",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "type": "question",
+            "round": "Geography",
+            "fileName": "Geography",
+            "question": "Place each of these \ncities on the map\n\nBirmingham\nBoston\nLondon\nManchester\nSurrey",
+            "answer": ""
+        },
+        {
+            "type": "img",
+            "round": "Geography",
+            "fileName": "GeogQs.png",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "type": "img",
+            "round": "Geography",
+            "fileName": "GeogAs.png",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "type": "intro",
+            "round": "Science",
+            "fileName": "Science Intro.mp4",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "type": "question",
+            "round": "Science",
+            "fileName": "Science",
+            "question": "Name the Scientist linked to each of these discoveries / inventions",
+            "answer": ""
+        },
+        {
+            "type": "question",
+            "round": "Science",
+            "fileName": "Science1",
+            "question": "Gravity",
+            "answer": "Isaac Newton"
+        },
+        {
+            "type": "question",
+            "round": "Science",
+            "fileName": "Science2",
+            "question": "Lightning Rods",
+            "answer": "Benjamin Franklin"
+        },
+        {
+            "type": "question",
+            "round": "Science",
+            "fileName": "Science3",
+            "question": "General Relativity",
+            "answer": "Albert Einstein"
+        },
+        {
+            "type": "question",
+            "round": "Science",
+            "fileName": "Science4",
+            "question": "The Telephone",
+            "answer": "Alexander Graham Bell"
+        },
+        {
+            "type": "question",
+            "round": "Science",
+            "fileName": "Science5",
+            "question": "Radioactivity",
+            "answer": "Marie Curie"
+        },
+        {
+            "type": "intro",
+            "round": "Music",
+            "fileName": "Music Intro.mp4",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "type": "question",
+            "round": "Music",
+            "fileName": "Music",
+            "question": "Each song was number one this day on the year it was released. Name the artist",
+            "answer": ""
+        },
+        {
+            "type": "video",
+            "round": "Music",
+            "fileName": "Music1.mp4",
+            "question": "",
+            "answer": "1979 - Art Garfunkel - Bright Eyes"
+        },
+        {
+            "type": "video",
+            "round": "Music",
+            "fileName": "Music2.mp4",
+            "question": "",
+            "answer": "1980 - Blondie - Call Me"
+        },
+        {
+            "type": "video",
+            "round": "Music",
+            "fileName": "Music3.mp4",
+            "question": "",
+            "answer": "1999 - Martine McCutcheon - Perfect Moment"
+        },
+        {
+            "type": "video",
+            "round": "Music",
+            "fileName": "Music4.mp4",
+            "question": "",
+            "answer": "2001 - Destiny's Child - Survivor"
+        },
+        {
+            "type": "video",
+            "round": "Music",
+            "fileName": "Music5.mp4",
+            "question": "",
+            "answer": "2012 - Carly Rae Jepsen - Call Me Maybe"
+        },
+        {
+            "type": "intro",
+            "round": "Movie",
+            "fileName": "Movie Intro.mp4",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "type": "question",
+            "round": "Movie",
+            "fileName": "Movie",
+            "question": "With the ceremony later tonight, this week's movie round is about the Oscars",
+            "answer": ""
+        },
+        {
+            "type": "question",
+            "round": "Movie",
+            "fileName": "Movie1",
+            "question": "Which three films are tied for most oscar wins\n(1 point per film)",
+            "answer": "Ben-Hur (nominated for 12)\nTitanic (nominated for 14)\nThe Lord of the Rings: The Return of the King (nomiated for 11)"
+        },
+        {
+            "type": "question",
+            "round": "Movie",
+            "fileName": "Movie2",
+            "question": "Which Actress has won the most awards (all for Best Actress)",
+            "answer": "Katharine Hepburn (4)"
+        },
+        {
+            "type": "question",
+            "round": "Movie",
+            "fileName": "Movie3",
+            "question": "Most awards won by a single person",
+            "answer": "Walt Disney (22)"
+        },
+        {
+            "type": "intro",
+            "round": "TV",
+            "fileName": "TV Intro.mp4",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "type": "question",
+            "round": "TV",
+            "fileName": "TV",
+            "question": "What is the name of each of these characters played by David Jason",
+            "answer": ""
+        },
+        {
+            "type": "img",
+            "round": "TV",
+            "fileName": "TV1.png",
+            "question": "",
+            "answer": "Granville - Open All Hours"
+        },
+        {
+            "type": "img",
+            "round": "TV",
+            "fileName": "TV2.png",
+            "question": "",
+            "answer": "DI Jack Frost - A Touch of Frost"
+        },
+        {
+            "type": "img",
+            "round": "TV",
+            "fileName": "TV3.png",
+            "question": "",
+            "answer": "Derek 'Del Boy' Trotter - Only Fools and Horses"
+        },
+        {
+            "type": "img",
+            "round": "TV",
+            "fileName": "TV4.png",
+            "question": "",
+            "answer": "Pop Larkin - The Darling Buds of May"
+        },
+        {
+            "type": "img",
+            "round": "TV",
+            "fileName": "TV5.png",
+            "question": "",
+            "answer": "Count Duckula - Count Duckula"
+        }
+    ]
+}

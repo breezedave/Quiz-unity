@@ -5,6 +5,7 @@ using TMPro;
 using UnityEngine;
 using System.IO;
 using System;
+using UnityEngine.Networking;
 
 [System.Serializable]
 public class Players
@@ -70,7 +71,7 @@ public class Room : MonoBehaviour
             var player = players[i];
 
             pedestals.Add(ped);
-            SetPedMat(ped, i);
+            //SetPedMat(ped, i);
             SetScoreboard(ped, player);
             SetPicture(ped, player);
         }
@@ -78,12 +79,14 @@ public class Room : MonoBehaviour
 
     GameObject CreatePedestal(int pedestalCount, int i)
     {
+        var isLarge = pedestalCount <= 6;
+
         var pedestal = GameObject.Find("Pedestal");
-        var centerPointY = 2f;
+        var centerPointY = isLarge? 4.65f: 3.1f;
         var centerPointZ = -13f;
         var distFromCenter = 10f;
 
-        var theta = 140f / pedestalCount * (i + (pedestalCount % 2 == 1 ? 0 : .5f) - pedestalCount / 2) * Mathf.Deg2Rad;
+        var theta = 155f / pedestalCount * (i + (pedestalCount % 2 == 1 ? 0 : .5f) - pedestalCount / 2) * Mathf.Deg2Rad;
         var oppositeSide = Mathf.Sin(theta) * distFromCenter;
         var adjacentSide = Mathf.Cos(theta) * distFromCenter;
 
@@ -93,8 +96,10 @@ public class Room : MonoBehaviour
             centerPointZ + adjacentSide
         );
 
+        if(!isLarge) pedestal.transform.localScale = new Vector3(70f, 70f, 70f);
+
         var rot = new Quaternion();
-        rot.eulerAngles = new Vector3(-90f, 180f + ((i + (pedestalCount % 2 == 1 ? 0 : .5f) - pedestalCount / 2) * 20), 0f);
+        rot.eulerAngles = new Vector3(0f, 180f + Math.Min(60, Math.Max(-60, (i + (pedestalCount % 2 == 1 ? 0 : .5f) - pedestalCount / 2) * 20)), 0f);
 
         var ped = Instantiate(pedestal);
         ped.name = "Pedestal_" + i;
@@ -104,16 +109,6 @@ public class Room : MonoBehaviour
         ped.transform.position = pos;
 
         return ped;
-    }
-
-    void SetPedMat(GameObject ped, int i)
-    {
-        var pedestaLRend = ped.GetComponent<Renderer>();
-        var pedestalMats = pedestaLRend.materials;
-        var pedestalMat = pedestalMats.First(_ => _.name == "PedestalStand (Instance)");
-        pedestalMat.color = colors[i % colors.Count];
-        pedestalMat.EnableKeyword("_EMISSION");
-        pedestalMat.SetColor("_EmissionColor", new Color(pedestalMat.color.r, pedestalMat.color.g, pedestalMat.color.b, 1f));
     }
 
     void SetScoreboard(GameObject ped, Player player)
@@ -127,14 +122,40 @@ public class Room : MonoBehaviour
 
     void SetPicture(GameObject ped, Player player)
     {
+        Shader spriteShader = Shader.Find("Sprites/Default");
+
         var picture = ped.GetComponentsInChildren<Component>().First(_ => _.name == "Picture");
         picture.gameObject.layer = 2;
 
-        var playerImg = (Texture)resources.First(_ => _.name.IndexOf(player.img) >= 0);
         var pictureMat = picture.GetComponent<Renderer>().material;
-        pictureMat.mainTexture = playerImg;
-        pictureMat.mainTextureScale = new Vector2(-1f, -1f);
-        pictureMat = new Material(Shader.Find("Standard"));
+        pictureMat.shader = spriteShader;
+        pictureMat.mainTextureScale = new Vector2(1f, 1f);
+        
+        if (resources.Count(_ => _.name.IndexOf(player.img) >= 0) > 0) { 
+            pictureMat.mainTexture = (Texture)resources.First(_ => _.name.IndexOf(player.img) >= 0);
+        } else {
+            if(File.Exists(player.img))
+            {
+                var fileData = File.ReadAllBytes(player.img);
+                var tex = new Texture2D(2, 2);
+
+                tex.LoadImage(fileData);
+                pictureMat.mainTexture = tex;
+            } else
+            {
+                StartCoroutine(DownloadImage(player.img, pictureMat));
+            }
+        }
+    }
+
+    IEnumerator DownloadImage(string MediaUrl, Material pictureMat)
+    {
+        UnityEngine.Networking.UnityWebRequest request = UnityWebRequestTexture.GetTexture(MediaUrl);
+        yield return request.SendWebRequest();
+        if (request.isNetworkError || request.isHttpError)
+            Debug.Log(request.error);
+        else
+            pictureMat.mainTexture = ((DownloadHandlerTexture)request.downloadHandler).texture;
     }
 
 

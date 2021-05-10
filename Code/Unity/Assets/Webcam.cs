@@ -1,30 +1,25 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using System.Threading;
-using UnityEngine;
-using UnityEngine.UI;
+﻿using UnityEngine;
 
 public class Webcam : MonoBehaviour
 {
     void Start()
     {
         Renderer rend = this.GetComponentInChildren<Renderer>();
+        Shader spriteShader = Shader.Find("Sprites/Default");
 
         Application.RequestUserAuthorization(UserAuthorization.WebCam);
         if (Application.HasUserAuthorization(UserAuthorization.WebCam))
         {
             var cam = findWebCams();
             var texture = new WebCamTexture(cam.name);
+
             texture.Play();
-           
-
+          
             rend.material.mainTexture = texture;
-            rend.material.mainTextureScale = new Vector2(.625f, 1f);
-            rend.material.mainTextureOffset = new Vector2(.2f, 0f);
-
-
+            rend.material.shader = spriteShader;
+            rend.material.mainTextureScale = new Vector2(1f, 1f);
+            rend.material.mainTextureOffset = new Vector2(0f, 0f);
         }
-
     }
 
     WebCamDevice findWebCams()
@@ -36,13 +31,5 @@ public class Webcam : MonoBehaviour
         }
 
         return WebCamTexture.devices[0];
-    }
-
-    void findMicrophones()
-    {
-        foreach (var device in Microphone.devices)
-        {
-            Debug.Log("Name: " + device);
-        }
     }
 }

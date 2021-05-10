@@ -1,13 +1,6 @@
 {
     "quiz": [
         {
-            "type": "img",
-            "round": "",
-            "fileName": "Quiziversary.png",
-            "question": "",
-            "answer": ""
-        }, 
-        {
             "type": "intro",
             "round": "Geography",
             "fileName": "Geog Intro.mp4",
@@ -18,120 +11,43 @@
             "type": "question",
             "round": "Geography",
             "fileName": "Geography",
-            "question": "Place each of these \ncities on the map\n\nBirmingham\nBoston\nLondon\nManchester\nSurrey",
+            "question": "In which country was each of these musicians born?",
             "answer": ""
         },
         {
             "type": "img",
             "round": "Geography",
-            "fileName": "GeogQs.png",
-            "question": "",
-            "answer": ""
+            "fileName": "Geog1.jpg",
+            "question": "Bjork",
+            "answer": "Iceland (Reykjavik)"
         },
         {
             "type": "img",
             "round": "Geography",
-            "fileName": "GeogAs.png",
-            "question": "",
-            "answer": ""
+            "fileName": "Geog2.jpg",
+            "question": "Rihanna",
+            "answer": "Barbados (Saint Michael)"
         },
         {
-            "type": "intro",
-            "round": "Science",
-            "fileName": "Science Intro.mp4",
-            "question": "",
-            "answer": ""
+            "type": "img",
+            "round": "Geography",
+            "fileName": "Geog3.jpg",
+            "question": "Celine Dion",
+            "answer": "Canada (Charlemagne)"
         },
         {
-            "type": "question",
-            "round": "Science",
-            "fileName": "Science",
-            "question": "Name the Scientist linked to each of these discoveries / inventions",
-            "answer": ""
+            "type": "img",
+            "round": "Geography",
+            "fileName": "Geog4.jpg",
+            "question": "Shakira",
+            "answer": "Colombia (Barranquilla)"
         },
         {
-            "type": "question",
-            "round": "Science",
-            "fileName": "Science1",
-            "question": "Gravity",
-            "answer": "Isaac Newton"
-        },
-        {
-            "type": "question",
-            "round": "Science",
-            "fileName": "Science2",
-            "question": "Lightning Rods",
-            "answer": "Benjamin Franklin"
-        },
-        {
-            "type": "question",
-            "round": "Science",
-            "fileName": "Science3",
-            "question": "General Relativity",
-            "answer": "Albert Einstein"
-        },
-        {
-            "type": "question",
-            "round": "Science",
-            "fileName": "Science4",
-            "question": "The Telephone",
-            "answer": "Alexander Graham Bell"
-        },
-        {
-            "type": "question",
-            "round": "Science",
-            "fileName": "Science5",
-            "question": "Radioactivity",
-            "answer": "Marie Curie"
-        },
-        {
-            "type": "intro",
-            "round": "Music",
-            "fileName": "Music Intro.mp4",
-            "question": "",
-            "answer": ""
-        },
-        {
-            "type": "question",
-            "round": "Music",
-            "fileName": "Music",
-            "question": "Each song was number one this day on the year it was released. Name the artist",
-            "answer": ""
-        },
-        {
-            "type": "video",
-            "round": "Music",
-            "fileName": "Music1.mp4",
-            "question": "",
-            "answer": "1979 - Art Garfunkel - Bright Eyes"
-        },
-        {
-            "type": "video",
-            "round": "Music",
-            "fileName": "Music2.mp4",
-            "question": "",
-            "answer": "1980 - Blondie - Call Me"
-        },
-        {
-            "type": "video",
-            "round": "Music",
-            "fileName": "Music3.mp4",
-            "question": "",
-            "answer": "1999 - Martine McCutcheon - Perfect Moment"
-        },
-        {
-            "type": "video",
-            "round": "Music",
-            "fileName": "Music4.mp4",
-            "question": "",
-            "answer": "2001 - Destiny's Child - Survivor"
-        },
-        {
-            "type": "video",
-            "round": "Music",
-            "fileName": "Music5.mp4",
-            "question": "",
-            "answer": "2012 - Carly Rae Jepsen - Call Me Maybe"
+            "type": "img",
+            "round": "Geography",
+            "fileName": "Geog5.jpg",
+            "question": "Olivia Newton-John",
+            "answer": "England (Cambridge)"
         },
         {
             "type": "intro",
@@ -144,78 +60,225 @@
             "type": "question",
             "round": "Movie",
             "fileName": "Movie",
-            "question": "With the ceremony later tonight, this week's movie round is about the Oscars",
+            "question": "Name the\nfilm / film series\nfrom its theme music",
             "answer": ""
         },
         {
-            "type": "question",
+            "type": "video",
             "round": "Movie",
-            "fileName": "Movie1",
-            "question": "Which three films are tied for most oscar wins\n(1 point per film)",
-            "answer": "Ben-Hur (nominated for 12)\nTitanic (nominated for 14)\nThe Lord of the Rings: The Return of the King (nomiated for 11)"
+            "fileName": "Movie1.mp4",
+            "question": "",
+            "answer": "Toy Story"
         },
         {
-            "type": "question",
+            "type": "video",
             "round": "Movie",
-            "fileName": "Movie2",
-            "question": "Which Actress has won the most awards (all for Best Actress)",
-            "answer": "Katharine Hepburn (4)"
+            "fileName": "Movie2.mp4",
+            "question": "",
+            "answer": "Austin Powers"
         },
         {
-            "type": "question",
+            "type": "video",
             "round": "Movie",
-            "fileName": "Movie3",
-            "question": "Most awards won by a single person",
-            "answer": "Walt Disney (22)"
+            "fileName": "Movie3.mp4",
+            "question": "",
+            "answer": "Police Academy"
+        },
+        {
+            "type": "video",
+            "round": "Movie",
+            "fileName": "Movie4.mp4",
+            "question": "",
+            "answer": "Back to the future"
+        },
+        {
+            "type": "video",
+            "round": "Movie",
+            "fileName": "Movie5.mp4",
+            "question": "",
+            "answer": "E.T."
         },
         {
             "type": "intro",
-            "round": "TV",
-            "fileName": "TV Intro.mp4",
+            "round": "Sport",
+            "fileName": "Sport Intro.mp4",
             "question": "",
             "answer": ""
         },
         {
             "type": "question",
-            "round": "TV",
-            "fileName": "TV",
-            "question": "What is the name of each of these characters played by David Jason",
+            "round": "Sport",
+            "fileName": "Sport",
+            "question": "Guess the year of each olympics based on these silent clips of their opening ceremonies",
             "answer": ""
         },
         {
-            "type": "img",
-            "round": "TV",
-            "fileName": "TV1.png",
+            "type": "video",
+            "round": "Sport",
+            "fileName": "Sport1.mp4",
             "question": "",
-            "answer": "Granville - Open All Hours"
+            "answer": "1984 - Los Angeles"
+        },
+        {
+            "type": "video",
+            "round": "Sport",
+            "fileName": "Sport2.mp4",
+            "question": "",
+            "answer": "1992 - Barcelona"
+        },
+        {
+            "type": "video",
+            "round": "Sport",
+            "fileName": "Sport3.mp4",
+            "question": "",
+            "answer": "2000 - Sydney"
+        },
+        {
+            "type": "video",
+            "round": "Sport",
+            "fileName": "Sport4.mp4",
+            "question": "",
+            "answer": "1996 - Atlanta"
+        },
+        {
+            "type": "video",
+            "round": "Sport",
+            "fileName": "Sport5.mp4",
+            "question": "",
+            "answer": "2008 - Beijing"
+        },
+        {
+            "type": "intro",
+            "round": "Music",
+            "fileName": "Music Intro.mp4",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "type": "question",
+            "round": "Music",
+            "fileName": "Music",
+            "question": "Each song was number one this day on the year it was released\n\nName the artist",
+            "answer": ""
+        },
+        {
+            "type": "video",
+            "round": "Music",
+            "fileName": "Music1.mp4",
+            "question": "",
+            "answer": "1981 - Adam and the Ants - Stand and Deliver"
+        },
+        {
+            "type": "video",
+            "round": "Music",
+            "fileName": "Music2.mp4",
+            "question": "",
+            "answer": "1987 - Starship - Nothing's Gonna Stop Us Now"
+        },
+        {
+            "type": "video",
+            "round": "Music",
+            "fileName": "Music3.mp4",
+            "question": "",
+            "answer": "1988 - S-Express - Theme from S-Express"
+        },
+        {
+            "type": "video",
+            "round": "Music",
+            "fileName": "Music4.mp4",
+            "question": "",
+            "answer": "1998 - All Saints - Under The Bridge"
+        },
+        {
+            "type": "video",
+            "round": "Music",
+            "fileName": "Music5.mp4",
+            "question": "",
+            "answer": "2007 - Beyonce & Shakira - Beautiful Liar"
+        },
+        {
+            "type": "intro",
+            "round": "Drinks",
+            "fileName": "Drinks Intro.mp4",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "type": "question",
+            "round": "Drinks",
+            "fileName": "Drinks",
+            "question": "Each of these are tasting notes for a red wine, a white wine, or a beer\n\nGuess which",
+            "answer": ""
+        },
+        {
+            "type": "question",
+            "round": "Drinks",
+            "fileName": "Drinks1",
+            "question": "Deep, black fruit on the nose with herbaceous notes. It's unreal with barbecue-smoked sausage",
+            "answer": "Red Wine"
+        },
+        {
+            "type": "question",
+            "round": "Drinks",
+            "fileName": "Drinks2",
+            "question": "Inviting raspberry on a refreshing but subtle sourness",
+            "answer": "Beer"
+        },
+        {
+            "type": "question",
+            "round": "Drinks",
+            "fileName": "Drinks3",
+            "question": "Intense citrus and herbal character with a touch of ripe tropical fruit",
+            "answer": "White Wine"
+        },
+        {
+            "type": "question",
+            "round": "Drinks",
+            "fileName": "Drinks4",
+            "question": "Totally hand-made, rich and deeply delicious. It's lavishly fruited and swathed in very fine oak",
+            "answer": "Red Wine"
+        },
+        {
+            "type": "question",
+            "round": "Drinks",
+            "fileName": "Drinks5",
+            "question": "Light and zesty in appearance and flavour",
+            "answer": "Beer"
         },
         {
             "type": "img",
-            "round": "TV",
-            "fileName": "TV2.png",
+            "round": "Drinks",
+            "fileName": "Drinks1A.png",
             "question": "",
-            "answer": "DI Jack Frost - A Touch of Frost"
+            "answer": "Red Wine"
         },
         {
             "type": "img",
-            "round": "TV",
-            "fileName": "TV3.png",
+            "round": "Drinks",
+            "fileName": "Drinks2A.png",
             "question": "",
-            "answer": "Derek 'Del Boy' Trotter - Only Fools and Horses"
+            "answer": "Beer"
         },
         {
             "type": "img",
-            "round": "TV",
-            "fileName": "TV4.png",
+            "round": "Drinks",
+            "fileName": "Drinks3A.png",
             "question": "",
-            "answer": "Pop Larkin - The Darling Buds of May"
+            "answer": "White Wine"
         },
         {
             "type": "img",
-            "round": "TV",
-            "fileName": "TV5.png",
+            "round": "Drinks",
+            "fileName": "Drinks4A.png",
             "question": "",
-            "answer": "Count Duckula - Count Duckula"
+            "answer": "Red Wine"
+        },
+        {
+            "type": "img",
+            "round": "Drinks",
+            "fileName": "Drinks5A.png",
+            "question": "",
+            "answer": "Beer"
         }
     ]
 }
